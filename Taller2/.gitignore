@@ -1,0 +1,3 @@
+/bin/
+/facturas/*
+!facturas/README.txt
